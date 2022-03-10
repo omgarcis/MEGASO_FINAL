@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "300926939632",
+    "project_id": "megaso-appprt",
+    "storage_bucket": "megaso-appprt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:300926939632:android:4e926f322db99ae7d5ad35",
+        "android_client_info": {
+          "package_name": "com.example.megaso"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "300926939632-8us403nq6s3vgbn8auomphiqnk0nsj9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGodiWzUUX8c3Ki8AKxSx5jJ7L3tLIHSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "300926939632-8us403nq6s3vgbn8auomphiqnk0nsj9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
