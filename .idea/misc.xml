@@ -3,12 +3,43 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_auth.xml" value="0.33" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_logout.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_main.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_main2.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_register.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/fragment_home.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/layout/fragment_profile.xml" value="0.34692028985507245" />
+        <entry key="..\:/Users/312A-09/AndroidStudioProjects/MEGASO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.196" />
         <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
         <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1945" />
         <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_auth.xml" value="0.33" />
         <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_logout.xml" value="0.25" />
         <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_main.xml" value="0.25" />
-        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_menu.xml" value="0.5" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/activity_menu.xml" value="0.4733257661748014" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/fragment_home.xml" value="0.2897845726198749" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/layout/fragment_settings_.xml" value="0.16802536231884058" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/menu/mainmenu.xml" value="0.20885416666666667" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.213" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.213" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/drawable/ic_azul_verde_suave_acuarela_imagen_libre_m_vil_fondo_de_pantalla__1_.xml" value="0.1605" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_auth.xml" value="0.33" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_logout.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_main2.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_mapsmegaso.xml" value="0.22" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_menu.xml" value="0.2" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_register.xml" value="0.25" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_reset_pass.xml" value="0.25" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/activity_splash.xml" value="0.33" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/fragment_profile.xml" value="0.25434439178515006" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/layout/fragment_settings_.xml" value="0.33" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/menu/mainmenu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/menu/menu.xml" value="0.2171875" />
+        <entry key="..\:/Users/Omar16/AndroidStudioProjects/MEGASO3/app/src/main/res/menu/navigation.xml" value="0.2171875" />
       </map>
     </option>
   </component>
